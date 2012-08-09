@@ -1,0 +1,24 @@
+===============================================================================
+Embry0 Platform manager v.0.1.0
+===============================================================================
+
+Expected to develop a universal object platform, codenamed "Embry0 Platfrom".  
+This platform is designed for use as a foundation for the development of 
+various software.
+This software product is the graphical user interface for managing Embry0 
+Platform. 
+At this moment project is the just began.
+
+About content:
+/Logo.jpg - Embry0 Patform logo;
+/project/src - Source codes for Platform manager;
+/application/PlatformManager.jar - Runnable jar for preview project.
+
+External libraries used in the project:
+hsqldb.jar - HSQLDB v.2.2.8 (http://hsqldb.org);
+commons-dbcp-1.4.jar - Database Connection Pool (http://commons.apache.org/dbcp);
+commons-pool-1.6.jar - Object-pooling API ().
+
+Compile requirements:
+All external libraries should be added to build path;
+Compile with JRE6.
